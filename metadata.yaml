@@ -1,0 +1,28 @@
+_repo: Le-Jour-naissant_64729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - Voisins, Auguste Gilbert de
+    - Gilbert de Voisins, Auguste, comte
+    - Voisins, Gilbert de
+    - De Voisins, Gilbert
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2021-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64729'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Jour naissant
+url: http://www.gutenberg.org/ebooks/64729
